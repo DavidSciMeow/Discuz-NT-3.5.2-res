@@ -1,0 +1,10 @@
+C:\Users\DavidTennant\Desktop\source_files\Discuz.Config\bin\Debug\Discuz.Config.dll
+C:\Users\DavidTennant\Desktop\source_files\Discuz.Config\bin\Debug\Discuz.Config.pdb
+C:\Users\DavidTennant\Desktop\source_files\Discuz.Config\bin\Debug\Discuz.Common.dll
+C:\Users\DavidTennant\Desktop\source_files\Discuz.Config\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DavidTennant\Desktop\source_files\Discuz.Config\bin\Debug\Discuz.Common.pdb
+C:\Users\DavidTennant\Desktop\source_files\Discuz.Config\obj\Debug\Discuz.Config.csprojAssemblyReference.cache
+C:\Users\DavidTennant\Desktop\source_files\Discuz.Config\obj\Debug\Discuz.Config.csproj.CoreCompileInputs.cache
+C:\Users\DavidTennant\Desktop\source_files\Discuz.Config\obj\Debug\Discuz.Config.csproj.CopyComplete
+C:\Users\DavidTennant\Desktop\source_files\Discuz.Config\obj\Debug\Discuz.Config.dll
+C:\Users\DavidTennant\Desktop\source_files\Discuz.Config\obj\Debug\Discuz.Config.pdb

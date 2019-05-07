@@ -1,0 +1,14 @@
+C:\Users\DavidTennant\Desktop\source_files\Discuz.Plugin\bin\Debug\Discuz.Plugin.dll
+C:\Users\DavidTennant\Desktop\source_files\Discuz.Plugin\bin\Debug\Discuz.Plugin.pdb
+C:\Users\DavidTennant\Desktop\source_files\Discuz.Plugin\bin\Debug\Discuz.Common.dll
+C:\Users\DavidTennant\Desktop\source_files\Discuz.Plugin\bin\Debug\Discuz.Config.dll
+C:\Users\DavidTennant\Desktop\source_files\Discuz.Plugin\bin\Debug\Discuz.Entity.dll
+C:\Users\DavidTennant\Desktop\source_files\Discuz.Plugin\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DavidTennant\Desktop\source_files\Discuz.Plugin\bin\Debug\Discuz.Common.pdb
+C:\Users\DavidTennant\Desktop\source_files\Discuz.Plugin\bin\Debug\Discuz.Config.pdb
+C:\Users\DavidTennant\Desktop\source_files\Discuz.Plugin\bin\Debug\Discuz.Entity.pdb
+C:\Users\DavidTennant\Desktop\source_files\Discuz.Plugin\obj\Debug\Discuz.Plugin.csprojAssemblyReference.cache
+C:\Users\DavidTennant\Desktop\source_files\Discuz.Plugin\obj\Debug\Discuz.Plugin.csproj.CoreCompileInputs.cache
+C:\Users\DavidTennant\Desktop\source_files\Discuz.Plugin\obj\Debug\Discuz.Plugin.csproj.CopyComplete
+C:\Users\DavidTennant\Desktop\source_files\Discuz.Plugin\obj\Debug\Discuz.Plugin.dll
+C:\Users\DavidTennant\Desktop\source_files\Discuz.Plugin\obj\Debug\Discuz.Plugin.pdb

@@ -1,0 +1,2 @@
+C:\Users\DavidTennant\Desktop\source_files\Discuz.Forum\obj\Release\Discuz.Forum.csprojAssemblyReference.cache
+C:\Users\DavidTennant\Desktop\source_files\Discuz.Forum\obj\Release\Discuz.Forum.csproj.CoreCompileInputs.cache

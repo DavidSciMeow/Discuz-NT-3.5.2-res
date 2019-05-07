@@ -1,0 +1,6 @@
+C:\Users\DavidTennant\Desktop\source_files\Discuz.Common\bin\Debug\Discuz.Common.dll
+C:\Users\DavidTennant\Desktop\source_files\Discuz.Common\bin\Debug\Discuz.Common.pdb
+C:\Users\DavidTennant\Desktop\source_files\Discuz.Common\obj\Debug\Discuz.Common.csprojAssemblyReference.cache
+C:\Users\DavidTennant\Desktop\source_files\Discuz.Common\obj\Debug\Discuz.Common.csproj.CoreCompileInputs.cache
+C:\Users\DavidTennant\Desktop\source_files\Discuz.Common\obj\Debug\Discuz.Common.dll
+C:\Users\DavidTennant\Desktop\source_files\Discuz.Common\obj\Debug\Discuz.Common.pdb

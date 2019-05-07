@@ -1,0 +1,10 @@
+C:\Users\DavidTennant\Desktop\source_files\Discuz.Entity\bin\Debug\Discuz.Entity.dll
+C:\Users\DavidTennant\Desktop\source_files\Discuz.Entity\bin\Debug\Discuz.Entity.pdb
+C:\Users\DavidTennant\Desktop\source_files\Discuz.Entity\bin\Debug\Discuz.Common.dll
+C:\Users\DavidTennant\Desktop\source_files\Discuz.Entity\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DavidTennant\Desktop\source_files\Discuz.Entity\bin\Debug\Discuz.Common.pdb
+C:\Users\DavidTennant\Desktop\source_files\Discuz.Entity\obj\Debug\Discuz.Entity.csprojAssemblyReference.cache
+C:\Users\DavidTennant\Desktop\source_files\Discuz.Entity\obj\Debug\Discuz.Entity.csproj.CoreCompileInputs.cache
+C:\Users\DavidTennant\Desktop\source_files\Discuz.Entity\obj\Debug\Discuz.Entity.csproj.CopyComplete
+C:\Users\DavidTennant\Desktop\source_files\Discuz.Entity\obj\Debug\Discuz.Entity.dll
+C:\Users\DavidTennant\Desktop\source_files\Discuz.Entity\obj\Debug\Discuz.Entity.pdb
