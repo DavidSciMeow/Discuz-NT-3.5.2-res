@@ -1,5 +1,10 @@
 # Discuz-NT-3.5.2-res
-Discuz!NT 3.5.2 res
-# ±¾²Ö¿âÎªDZ£¡NT°æV3.5.2°æ£¬Ô­°æ´úÂë£¬
-# slnVS08Äê°æ£¬VS08ÄêÒÔºóÇ¨ÒÆ¾ù»á±¨´íµ«ÊÇ²»Ó°ÏìdllÉú³É£¬
-# ÇëÊ¹ÓÃ°²×°°æ£¬ÈçÓöµ½dllÎÊÌâÇëÊ¹ÓÃ±¾³ÌĞòÖØĞÂ¼ÓÔØdll
+$ Discuz!NT 3.5.2 res
+# æœ¬ä»“åº“ä¸ºDZï¼NTç‰ˆV3.5.2ç‰ˆï¼ŒåŸç‰ˆä»£ç ï¼Œ
+$ this page is the Discuz!NT Version 3.5.2's OpenSource File.
+# slnVS08å¹´ç‰ˆï¼ŒVS08å¹´ä»¥åè¿ç§»å‡ä¼šæŠ¥é”™ä½†æ˜¯ä¸å½±å“dllç”Ÿæˆï¼Œ
+$ This document is online the version of VisualStudio Version2008 .sln, over cast to higher build will promte the error but not influence the dll link to revive.
+# è¯·ä½¿ç”¨å®‰è£…ç‰ˆï¼Œå¦‚é‡åˆ°dllé—®é¢˜è¯·ä½¿ç”¨æœ¬ç¨‹åºé‡æ–°åŠ è½½dll
+$ if not necessary please using the .msi Version to Install the Programe and Using this repo to convert dll files;
+# ç‰ˆæƒæ‰€æœ‰ Discuz!NT å¼€å‘ç»„
+$ CopyRight Discuz!NT development team.
