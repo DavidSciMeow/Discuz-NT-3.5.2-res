@@ -8,3 +8,6 @@ $ This document is online the version of VisualStudio Version2008 .sln, over cas
 $ if not necessary please using the .msi Version to Install the Programe and Using this repo to convert dll files;
 # 版权所有 Discuz!NT 开发组
 $ CopyRight Discuz!NT development team.
+### =========================
+# 已知的错误已归档在“问题”文件夹。
+$ the encountered error is labeled in the spcific folder at Issues.
